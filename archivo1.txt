@@ -1,3 +1,3 @@
 nuevo contenido del archivo 1 (antes no tenía nada)
 prueba para deshacer con revert
-añado1
+añado
