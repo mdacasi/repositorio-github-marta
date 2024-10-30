@@ -1,0 +1,6 @@
+nuevo contenido del archivo 1 (antes no tenía nada)
+<<<<<<< HEAD
+prueba para deshacer con revert
+=======
+prueba para deshacer con revert
+>>>>>>> parent of d6fa2f9 (subo cambios 1)
